@@ -1,0 +1,14 @@
+D:\Studia\Programowanie\Zadanie4-3\bin\Debug\net8.0\Zadanie4-3.exe
+D:\Studia\Programowanie\Zadanie4-3\bin\Debug\net8.0\Zadanie4-3.deps.json
+D:\Studia\Programowanie\Zadanie4-3\bin\Debug\net8.0\Zadanie4-3.runtimeconfig.json
+D:\Studia\Programowanie\Zadanie4-3\bin\Debug\net8.0\Zadanie4-3.dll
+D:\Studia\Programowanie\Zadanie4-3\bin\Debug\net8.0\Zadanie4-3.pdb
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\Zadanie4-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\Zadanie4-3.AssemblyInfoInputs.cache
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\Zadanie4-3.AssemblyInfo.cs
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\Zadanie4-3.csproj.CoreCompileInputs.cache
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\Zadanie4-3.dll
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\refint\Zadanie4-3.dll
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\Zadanie4-3.pdb
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\Zadanie4-3.genruntimeconfig.cache
+D:\Studia\Programowanie\Zadanie4-3\obj\Debug\net8.0\ref\Zadanie4-3.dll
