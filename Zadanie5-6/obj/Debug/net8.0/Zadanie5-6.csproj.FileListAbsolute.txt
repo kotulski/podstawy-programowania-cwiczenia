@@ -1,0 +1,14 @@
+D:\Studia\Programowanie\Zadanie5-6\bin\Debug\net8.0\Zadanie5-6.exe
+D:\Studia\Programowanie\Zadanie5-6\bin\Debug\net8.0\Zadanie5-6.deps.json
+D:\Studia\Programowanie\Zadanie5-6\bin\Debug\net8.0\Zadanie5-6.runtimeconfig.json
+D:\Studia\Programowanie\Zadanie5-6\bin\Debug\net8.0\Zadanie5-6.dll
+D:\Studia\Programowanie\Zadanie5-6\bin\Debug\net8.0\Zadanie5-6.pdb
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\Zadanie5-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\Zadanie5-6.AssemblyInfoInputs.cache
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\Zadanie5-6.AssemblyInfo.cs
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\Zadanie5-6.csproj.CoreCompileInputs.cache
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\Zadanie5-6.dll
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\refint\Zadanie5-6.dll
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\Zadanie5-6.pdb
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\Zadanie5-6.genruntimeconfig.cache
+D:\Studia\Programowanie\Zadanie5-6\obj\Debug\net8.0\ref\Zadanie5-6.dll
