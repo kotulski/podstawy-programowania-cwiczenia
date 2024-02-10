@@ -1,0 +1,14 @@
+D:\Studia\Programowanie\Zadanie3-1\bin\Debug\net8.0\Zadanie3-1.exe
+D:\Studia\Programowanie\Zadanie3-1\bin\Debug\net8.0\Zadanie3-1.deps.json
+D:\Studia\Programowanie\Zadanie3-1\bin\Debug\net8.0\Zadanie3-1.runtimeconfig.json
+D:\Studia\Programowanie\Zadanie3-1\bin\Debug\net8.0\Zadanie3-1.dll
+D:\Studia\Programowanie\Zadanie3-1\bin\Debug\net8.0\Zadanie3-1.pdb
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\Zadanie3-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\Zadanie3-1.AssemblyInfoInputs.cache
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\Zadanie3-1.AssemblyInfo.cs
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\Zadanie3-1.csproj.CoreCompileInputs.cache
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\Zadanie3-1.dll
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\refint\Zadanie3-1.dll
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\Zadanie3-1.pdb
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\Zadanie3-1.genruntimeconfig.cache
+D:\Studia\Programowanie\Zadanie3-1\obj\Debug\net8.0\ref\Zadanie3-1.dll
