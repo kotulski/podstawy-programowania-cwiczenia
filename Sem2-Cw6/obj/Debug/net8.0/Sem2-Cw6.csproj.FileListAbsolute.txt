@@ -1,0 +1,14 @@
+C:\Users\Patryk\Desktop\Sem2-Cw6\bin\Debug\net8.0\Sem2-Cw6.exe
+C:\Users\Patryk\Desktop\Sem2-Cw6\bin\Debug\net8.0\Sem2-Cw6.deps.json
+C:\Users\Patryk\Desktop\Sem2-Cw6\bin\Debug\net8.0\Sem2-Cw6.runtimeconfig.json
+C:\Users\Patryk\Desktop\Sem2-Cw6\bin\Debug\net8.0\Sem2-Cw6.dll
+C:\Users\Patryk\Desktop\Sem2-Cw6\bin\Debug\net8.0\Sem2-Cw6.pdb
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\Sem2-Cw6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\Sem2-Cw6.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\Sem2-Cw6.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\Sem2-Cw6.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\Sem2-Cw6.dll
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\refint\Sem2-Cw6.dll
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\Sem2-Cw6.pdb
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\Sem2-Cw6.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Sem2-Cw6\obj\Debug\net8.0\ref\Sem2-Cw6.dll

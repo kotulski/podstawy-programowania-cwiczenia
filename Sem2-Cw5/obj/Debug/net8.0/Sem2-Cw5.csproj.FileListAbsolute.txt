@@ -1,0 +1,14 @@
+C:\Users\Patryk\Desktop\Sem2-Cw5\bin\Debug\net8.0\Sem2-Cw5.exe
+C:\Users\Patryk\Desktop\Sem2-Cw5\bin\Debug\net8.0\Sem2-Cw5.deps.json
+C:\Users\Patryk\Desktop\Sem2-Cw5\bin\Debug\net8.0\Sem2-Cw5.runtimeconfig.json
+C:\Users\Patryk\Desktop\Sem2-Cw5\bin\Debug\net8.0\Sem2-Cw5.dll
+C:\Users\Patryk\Desktop\Sem2-Cw5\bin\Debug\net8.0\Sem2-Cw5.pdb
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\Sem2-Cw5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\Sem2-Cw5.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\Sem2-Cw5.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\Sem2-Cw5.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\Sem2-Cw5.dll
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\refint\Sem2-Cw5.dll
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\Sem2-Cw5.pdb
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\Sem2-Cw5.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Sem2-Cw5\obj\Debug\net8.0\ref\Sem2-Cw5.dll
